@@ -43,7 +43,7 @@ public class Game extends Observable implements IModel {
 		gameState = GameState.OK;
 		maps = new ArrayList<IMap>();
 		initMap();
-		this.id=3;
+		this.id=0;
 	}
 	
 	/*

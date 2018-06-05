@@ -31,7 +31,6 @@ public class Frame extends JFrame implements IView, KeyListener{
 		this.game = game;
 		this.addKeyListener(this);
 		this.setTitle("Lorann");
-		this.setLocationRelativeTo(null);
 		this.setSize(IView.WIDTH, IView.HEIGHT);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setAlwaysOnTop(true);
