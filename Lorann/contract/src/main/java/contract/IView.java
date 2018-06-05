@@ -3,8 +3,8 @@ package contract;
 import controller.IController;
 
 public interface IView {
-	int HEIGHT = 700;
-	int WIDTH = 700;
+	int HEIGHT = 460;
+	int WIDTH = 646;
 	
 
 	public void setController(IController controler);
