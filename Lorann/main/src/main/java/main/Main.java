@@ -19,7 +19,9 @@ public abstract class Main {
 	/**
 	* Method to start the game
 	* @param args
+	* 		the arguments
 	* @throws IOException
+	* 		throws the exceptions
 	*/
 	public static void main(final String[] args) throws IOException {
 		IModel game = new Game();

@@ -5,7 +5,7 @@ import model.DoorState;
 import model.IDoor;
 import controller.Permeability;
 /**
- *  The Door class represents the access to the end of the level </b>
+ *  The Door class represents the access to the end of the level
  * The class Door consists to instantiate an object Door with:
  * 
  * An x and y coordinates to locate on a map

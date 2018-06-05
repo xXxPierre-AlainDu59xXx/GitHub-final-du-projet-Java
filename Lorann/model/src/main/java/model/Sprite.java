@@ -23,6 +23,7 @@ public Image image;
 /**
  * Initialize a sprite
  * @param url
+ * 		the url of the sprites
  */
 public Sprite(String url) {
 		

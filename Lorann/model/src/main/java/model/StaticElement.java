@@ -5,7 +5,7 @@ import controller.Permeability;
  * This class StaticElement is used to define the mobility of the object
  * The StaticElement consists take into account:
  * 
- * >A url to connect the object to an image format . png.
+ * A url to connect the object to an image format . png.
  * And a list to give him a permeability or not.
  *
  * @author Corentin Devrouete

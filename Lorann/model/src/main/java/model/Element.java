@@ -86,6 +86,7 @@ public class Element implements IElement {
 	/**
 	 * Method to set the permeability of an element
 	 * @param permeability
+	 * 		defines permeability
 	 */
 	public void setPermeability(Permeability permeability) {
 		this.permeability = permeability;

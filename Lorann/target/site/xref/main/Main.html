@@ -27,17 +27,19 @@
 <a class="jxr_linenumber" name="L19" href="#L19">19</a>  	<em class="jxr_javadoccomment">/**</em>
 <a class="jxr_linenumber" name="L20" href="#L20">20</a>  <em class="jxr_javadoccomment">	* Method to start the game</em>
 <a class="jxr_linenumber" name="L21" href="#L21">21</a>  <em class="jxr_javadoccomment">	* @param args</em>
-<a class="jxr_linenumber" name="L22" href="#L22">22</a>  <em class="jxr_javadoccomment">	* @throws IOException</em>
-<a class="jxr_linenumber" name="L23" href="#L23">23</a>  <em class="jxr_javadoccomment">	*/</em>
-<a class="jxr_linenumber" name="L24" href="#L24">24</a>  	<strong class="jxr_keyword">public</strong> <strong class="jxr_keyword">static</strong> <strong class="jxr_keyword">void</strong> main(<strong class="jxr_keyword">final</strong> String[] args) <strong class="jxr_keyword">throws</strong> IOException {
-<a class="jxr_linenumber" name="L25" href="#L25">25</a>  		IModel game = <strong class="jxr_keyword">new</strong> <a href="../model/Game.html">Game</a>();
-<a class="jxr_linenumber" name="L26" href="#L26">26</a>  		IView frame = <strong class="jxr_keyword">new</strong> <a href="../view/Frame.html">Frame</a>(game);
-<a class="jxr_linenumber" name="L27" href="#L27">27</a>  		IController control = <strong class="jxr_keyword">new</strong> <a href="../controller/Controller.html">Controller</a>(game,frame);
-<a class="jxr_linenumber" name="L28" href="#L28">28</a>  		frame.setController(control);
-<a class="jxr_linenumber" name="L29" href="#L29">29</a>  					
-<a class="jxr_linenumber" name="L30" href="#L30">30</a>  	}
-<a class="jxr_linenumber" name="L31" href="#L31">31</a>  
-<a class="jxr_linenumber" name="L32" href="#L32">32</a>  }
+<a class="jxr_linenumber" name="L22" href="#L22">22</a>  <em class="jxr_javadoccomment">	* 		the arguments</em>
+<a class="jxr_linenumber" name="L23" href="#L23">23</a>  <em class="jxr_javadoccomment">	* @throws IOException</em>
+<a class="jxr_linenumber" name="L24" href="#L24">24</a>  <em class="jxr_javadoccomment">	* 		throws the exceptions</em>
+<a class="jxr_linenumber" name="L25" href="#L25">25</a>  <em class="jxr_javadoccomment">	*/</em>
+<a class="jxr_linenumber" name="L26" href="#L26">26</a>  	<strong class="jxr_keyword">public</strong> <strong class="jxr_keyword">static</strong> <strong class="jxr_keyword">void</strong> main(<strong class="jxr_keyword">final</strong> String[] args) <strong class="jxr_keyword">throws</strong> IOException {
+<a class="jxr_linenumber" name="L27" href="#L27">27</a>  		IModel game = <strong class="jxr_keyword">new</strong> <a href="../model/Game.html">Game</a>();
+<a class="jxr_linenumber" name="L28" href="#L28">28</a>  		IView frame = <strong class="jxr_keyword">new</strong> <a href="../view/Frame.html">Frame</a>(game);
+<a class="jxr_linenumber" name="L29" href="#L29">29</a>  		IController control = <strong class="jxr_keyword">new</strong> <a href="../controller/Controller.html">Controller</a>(game,frame);
+<a class="jxr_linenumber" name="L30" href="#L30">30</a>  		frame.setController(control);
+<a class="jxr_linenumber" name="L31" href="#L31">31</a>  					
+<a class="jxr_linenumber" name="L32" href="#L32">32</a>  	}
+<a class="jxr_linenumber" name="L33" href="#L33">33</a>  
+<a class="jxr_linenumber" name="L34" href="#L34">34</a>  }
 </pre>
 <hr/>
 <div id="footer">Copyright &#169; 2018. All rights reserved.</div>

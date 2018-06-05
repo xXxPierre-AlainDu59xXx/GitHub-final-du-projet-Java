@@ -23,6 +23,7 @@ public class DBGame {
 	 * @param sql
 	 * 		it's a sql query
 	 * @param id
+	 * 		sets the id
 	 * @return the result of the query
 	 */
 	public ResultSet procedure(String sql, int id){

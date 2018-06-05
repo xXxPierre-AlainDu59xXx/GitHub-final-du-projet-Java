@@ -81,7 +81,7 @@ public class Map implements IMap {
 	/**
 	 * Set the table of elements
 	 * @param elements 
-	 * 						
+	 * 			the different elements
 	 */
 	public void setElements(IElement[][] elements) {
 		this.elements = elements;
