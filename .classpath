@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Controller/src"/>
+	<classpathentry kind="src" path="LORANN GIT/Lorann/controller/src/main/java"/>
+	<classpathentry kind="src" path="LORANN GIT/Lorann/main/src/main/java"/>
+	<classpathentry kind="src" path="LORANN GIT/Lorann/model/src/main/java"/>
+	<classpathentry kind="src" path="LORANN GIT/Lorann/showboard/src/main/java"/>
+	<classpathentry kind="src" path="LORANN GIT/Lorann/view/src/main/java"/>
+	<classpathentry kind="src" path="Lorann/contract/src/main/java"/>
+	<classpathentry kind="src" path="Lorann/contract/src/test/java"/>
+	<classpathentry kind="src" path="Lorann/controller/src/main/java"/>
+	<classpathentry kind="src" path="Lorann/controller/src/test/java"/>
+	<classpathentry kind="src" path="Lorann/main/src/main/java"/>
+	<classpathentry kind="src" path="Lorann/model/src/main/java"/>
+	<classpathentry kind="src" path="Lorann/showboard/src/main/java"/>
+	<classpathentry kind="src" path="Lorann/view/src/main/java"/>
+	<classpathentry kind="src" path="Trucs donnés par la page du projet/Lorann/Lorann/contract/src/main/java"/>
+	<classpathentry kind="src" path="Trucs donnés par la page du projet/Lorann/Lorann/contract/src/test/java"/>
+	<classpathentry kind="src" path="Trucs donnés par la page du projet/Lorann/Lorann/controller/src/main/java"/>
+	<classpathentry kind="src" path="Trucs donnés par la page du projet/Lorann/Lorann/main/src/main/java"/>
+	<classpathentry kind="src" path="Trucs donnés par la page du projet/Lorann/Lorann/model/src/main/java"/>
+	<classpathentry kind="src" path="Trucs donnés par la page du projet/Lorann/Lorann/showboard/src/main/java"/>
+	<classpathentry kind="src" path="Trucs donnés par la page du projet/Lorann/Lorann/view/src/main/java"/>
+	<classpathentry kind="src" path="Trucs donnés par la page du projet/showboard-master/showboard-master/src"/>
+	<classpathentry kind="output" path="LORANN GIT/Lorann/controller/target/classes"/>
+</classpath>
